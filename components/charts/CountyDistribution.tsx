@@ -20,9 +20,7 @@ import {
   YAxis,
 } from "recharts";
 import { useDashboardContext } from "../providers/dashboard-provider";
-import { COLORS } from "@/lib/constent";
-
-
+import { COLORS } from "@/lib/constant";
 
 export const CountyDistribution = memo(function CountyDistribution() {
   const { countyData, isLoading } = useDashboardContext();

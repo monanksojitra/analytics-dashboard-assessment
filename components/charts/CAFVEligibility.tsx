@@ -117,7 +117,15 @@ export const CAFVEligibility = memo(function CAFVEligibility() {
                 return null;
               }}
             />
-            <Legend verticalAlign="bottom" height={36} />
+            <Legend
+              verticalAlign="bottom"
+              iconType="circle"
+              iconSize={10}
+              wrapperStyle={{
+                fontSize: "12px",
+              }}
+              height={36}
+            />
           </PieChart>
         </ResponsiveContainer>
       </CardContent>

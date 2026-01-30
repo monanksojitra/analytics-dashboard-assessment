@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   authors: [{ name: "MapUp Assessment" }],
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_SITE_URL ||
-      "https://ev-analytics-dashboard.vercel.app",
+      "https://analytics-dashboard-assessment.monanksojitra.in/",
   ),
   openGraph: {
     type: "website",

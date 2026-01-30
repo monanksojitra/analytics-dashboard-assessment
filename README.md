@@ -1,6 +1,6 @@
 # EV Analytics Dashboard | MapUp Assessment
 
-> **Live Demo**: [https://ev-analytics-dashboard.vercel.app](https://ev-analytics-dashboard.vercel.app) _(Update with your deployment URL)_
+> **Live Demo**: [https://analytics-dashboard-assessment.monanksojitra.in/](https://analytics-dashboard-assessment.monanksojitra.in/) _(Update with your deployment URL)_
 
 Comprehensive analytics dashboard for analyzing 50,000+ electric vehicles in Washington State. Built with Next.js 14, TypeScript, and Supabase.
 

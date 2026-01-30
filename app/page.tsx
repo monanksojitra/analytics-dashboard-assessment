@@ -51,7 +51,7 @@ export default function Home() {
         <Header />
 
         <main className="flex-1 overflow-y-auto bg-background">
-          <div className="container mx-auto p-6">
+          <div className="mx-auto p-6 max-w-[1440px]">
             {/* Page Header */}
             <div className="mb-8">
               <h1 className="text-4xl font-bold tracking-tight">

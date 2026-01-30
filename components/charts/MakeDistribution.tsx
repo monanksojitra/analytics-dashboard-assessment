@@ -104,6 +104,11 @@ export const MakeDistribution = memo(function MakeDistribution() {
             />
             <Legend
               verticalAlign="bottom"
+              align="center"
+              iconSize={10}
+              wrapperStyle={{
+                fontSize: "12px",
+              }}
               height={36}
               formatter={(value, entry: any) =>
                 `${value} (${formatPercentage(entry.payload.percentage, 1)})`

@@ -4,7 +4,7 @@
 
 Comprehensive analytics dashboard for analyzing 50,000+ electric vehicles in Washington State. Built with Next.js 14, TypeScript, and Supabase.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=EV+Analytics+Dashboard)
+![Dashboard Preview](./public/dashboard.png)
 
 ---
 

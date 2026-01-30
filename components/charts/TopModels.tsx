@@ -20,7 +20,7 @@ import {
   YAxis,
 } from "recharts";
 import { useDashboardContext } from "../providers/dashboard-provider";
-import { COLORS } from "@/lib/constent";
+import { COLORS } from "@/lib/constant";
 
 export const TopModels = memo(function TopModels() {
   const { topModelsData, isLoading } = useDashboardContext();
